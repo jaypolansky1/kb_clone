@@ -24,7 +24,7 @@ const config = {
   baseUrl: '/kb_clone/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/kb_clone/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
