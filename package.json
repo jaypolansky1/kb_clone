@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "docusaurus-theme-quiet": "^0.1.1"
+  },
+  "allowScripts": {
+    "core-js@3.51.0": true
+  }
+}
