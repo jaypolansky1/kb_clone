@@ -41,6 +41,8 @@ const config = {
     locales: ['en'],
   },
 
+  themes: ['docusaurus-theme-quiet'],
+  
   presets: [
     [
       'classic',
@@ -128,7 +130,3 @@ const config = {
     }),
 };
 
-export default {
-  presets: [["classic", { docs: { sidebarPath: "./sidebars.js" } }]],
-  themes: ["docusaurus-theme-quiet"],
-};
