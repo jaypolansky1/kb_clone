@@ -40,8 +40,6 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
-  themes: ['docusaurus-theme-quiet'],
   
   presets: [
     [
