@@ -128,4 +128,7 @@ const config = {
     }),
 };
 
-export default config;
+export default config;{
+  presets: [["classic", { docs: { sidebarPath: "./sidebars.js" } }]],
+  themes: ["docusaurus-theme-quiet"],
+};
