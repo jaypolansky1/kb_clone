@@ -40,7 +40,7 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-  
+
   presets: [
     [
       'classic',
@@ -128,3 +128,4 @@ const config = {
     }),
 };
 
+export default config;
