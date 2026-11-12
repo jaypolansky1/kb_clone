@@ -21,7 +21,6 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://jaypolansky1.github.io',
-  baseUrl: '/kb_clone/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/kb_clone/',
@@ -41,7 +40,7 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  themes: ['docusaurus-theme-quiet'],
   presets: [
     [
       'classic',
